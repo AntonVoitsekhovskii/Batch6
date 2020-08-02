@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13266" started-at="2020-05-23T13:28:48 EDT" finished-at="2020-05-23T13:29:01 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13266" started-at="2020-05-23T13:28:48 EDT" finished-at="2020-05-23T13:29:01 EDT">
+      <class name="com.syntax.testcases.Login">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.syntax.testcases.Login@5a1c0542]" name="setUp" is-config="true" duration-ms="2879" started-at="2020-05-23T13:28:48 EDT" finished-at="2020-05-23T13:28:51 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="emptyUsernameLogin()[pri:0, instance:com.syntax.testcases.Login@5a1c0542]" name="emptyUsernameLogin" duration-ms="319" started-at="2020-05-23T13:28:51 EDT" finished-at="2020-05-23T13:28:51 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emptyUsernameLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.syntax.testcases.Login@5a1c0542]" name="tearDown" is-config="true" duration-ms="89" started-at="2020-05-23T13:28:51 EDT" finished-at="2020-05-23T13:28:51 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.syntax.testcases.Login@5a1c0542]" name="setUp" is-config="true" duration-ms="2210" started-at="2020-05-23T13:28:51 EDT" finished-at="2020-05-23T13:28:53 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="invalidPasswordLogin()[pri:0, instance:com.syntax.testcases.Login@5a1c0542]" name="invalidPasswordLogin" duration-ms="1105" started-at="2020-05-23T13:28:53 EDT" finished-at="2020-05-23T13:28:54 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidPasswordLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.syntax.testcases.Login@5a1c0542]" name="tearDown" is-config="true" duration-ms="83" started-at="2020-05-23T13:28:54 EDT" finished-at="2020-05-23T13:28:54 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.syntax.testcases.Login@5a1c0542]" name="setUp" is-config="true" duration-ms="2230" started-at="2020-05-23T13:28:54 EDT" finished-at="2020-05-23T13:28:57 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validAdminLogin()[pri:0, instance:com.syntax.testcases.Login@5a1c0542]" name="validAdminLogin" duration-ms="4217" started-at="2020-05-23T13:28:57 EDT" finished-at="2020-05-23T13:29:01 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validAdminLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.syntax.testcases.Login@5a1c0542]" name="tearDown" is-config="true" duration-ms="86" started-at="2020-05-23T13:29:01 EDT" finished-at="2020-05-23T13:29:01 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.syntax.testcases.Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;fip&apos; in &apos;com.syntax.class02.HW.main(...)&apos; to &apos;fis&apos;&#x0A;- Original project: &apos;Selenium&apos;&#x0A;- Original element: &apos;com.syntax.class02.HW.main(String[]).fip&apos;&#x0A;- Renamed element: &apos;fip&apos;&#x0A;- Update references to refactored element" description="Rename local variable &apos;fip&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;com.syntax.class02{HW.java[HW~main~\[QString;@fip!492!543!508!510!QFileInputStream;!0!false" name="fis" references="true" stamp="1587912553502" version="1.0"/>
+</session>
